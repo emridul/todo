@@ -7,3 +7,5 @@ If you want to learn how to build this yourself you can check out the YouTube vi
 
 ## License
 [MIT](LICENSE.md) © [Max Sandelin](https://instagram.com/themaxsandelin)
+
+Added docker support to this public repository, Read ReadMe-Docker-Commands.txt file
