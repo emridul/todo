@@ -4,8 +4,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: emridul/nginx-todo:1.2
+    image: emridul/nginx-todo:1.2.2
     ports:
       - '8080:80'
     volumes:
-      - .:/code
+      - .:/usr/share/nginx/html
